@@ -3,7 +3,7 @@
 **Кандидат:** Алексей Виноградов  
 **Позиция:** Junior Системный Аналитик  
 **Дата выполнения:** 28.01.2026  
-**GitHub:** [alexs-vinogradov](https://github.com/alexs-vinogradov)  
+**GitHub:** [aleks-vinogradov](https://github.com/alexs-vinogradov)  
 **Telegram:** [@aleks_vinogradov](https://t.me/aleks_vinogradov)
 
 ---
